@@ -5,7 +5,7 @@ layout: hello-default
 
 # these variables are required -------------------------------
 banner_title: Fred Mubang
-banner_subtitle: Computer Science Ph.D Candidate at University of South Florida // Researcher at DARPA
+banner_subtitle: Computer Science Ph.D Candidate at University of South Florida // Researcher at DARPA // [Resume](./Fred_Mubang_CV.pdf)
 background_image: /images/background.jpeg
 
 # all of the following variables are optional -----------------
