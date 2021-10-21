@@ -23,7 +23,7 @@ linkedin: saragong # the part after ("https://www.linkedin.com/in/...")
 
 # By declaring these variables, you can include a button that links to an external website or to media.
 <!-- about_button: https://github.com/saragong/hello # the link -->
-about_button: ./Fred_Mubang_CV.pdf  # the link
+about_button: ./pdfs/Fred_Mubang_CV.pdf  # the link
 about_button_label: Resume # the label on the button
 
 # optional portfolio section ------------------------------------------
