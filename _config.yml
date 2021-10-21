@@ -1,17 +1,17 @@
 # _config.yml
 
 # required, replace with your own information -----
-title: Hello for Github Pages
-author: Sara Gong
-description: > 
-  A minimalist template for designing a personal GitHub Pages website - without typing a single line of code.
+title: Fred Mubang - Data Scientist
+author: Fred Mubang
+description: >
+  Website for Fred Mubang, Ph.D Candidate and data scientist.
 baseurl: ""
 
 plugins:
   - jekyll-feed
   - jekyll-sitemap
   - jekyll-seo-tag
-  
+
 #---------------------------------------------------
 
 exclude:
