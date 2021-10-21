@@ -3,6 +3,7 @@ layout: landing-page
 title: Fred Mubang
 description: Ph.D Candidate // Research Assistant at University of South Florida and DARPA.
 image: /images/logo.jpeg
+<!-- image: ./images/Artificial-inteligence-blog-cover.png -->
 
 favicon: /assets/ico/favicon.ico
 
@@ -18,7 +19,8 @@ banner_subtitle: Ph.D Candidate // Research Assistant at University of South Flo
 about_button: ./pdfs/Fred_Mubang_Compressed_Resume.pdf
 about_button_label: resume
 
-background_image: /images/background.jpeg
+<!-- background_image: /images/background.jpeg -->
+background_image: ./images/Artificial-inteligence-blog-cover.png
 
 
 # variables for jekyll-seo-tag
