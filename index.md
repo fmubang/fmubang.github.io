@@ -1,7 +1,7 @@
 ---
 layout: landing-page
 title: Fred Mubang
-description: Ph.D Candidate // Research Assistant at University of South Florida and DARPA.
+description: DARPA Machine Learning Researcher and Data Scientist // Ph.D Candidate at University of South Florida
 image: /images/logo.jpeg
 <!-- image: ./images/Artificial-inteligence-blog-cover.png -->
 
