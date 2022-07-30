@@ -13,7 +13,7 @@ linkedin: saragong
 google_analytics: UA-147633665-1 -->
 
 banner_title: Fred Mubang
-banner_subtitle: Ph.D Candidate // Research Assistant at University of South Florida and DARPA.
+banner_subtitle: DARPA Machine Learning Researcher and Data Scientist // Ph.D Candidate at University of South Florida.
 
 <!-- about_button: /assets/pdf/resume.pdf -->
 about_button: ./pdfs/Fred_Mubang_Compressed_Resume.pdf
